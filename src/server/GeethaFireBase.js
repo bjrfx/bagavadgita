@@ -18,4 +18,4 @@ function GeethaFirebase() {
     const db = getFirestore(app);
 }
 
-export default GeethaFirebase;
+export * from GeethaFirebase;
