@@ -13,6 +13,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+### `npm run build`
+It compiles, bundlds, and optimizes bagavadgita project's source code, assets, and dependencies into a production-ready format.
+
+### `node index.js`
+Navigate to the server folder and run this code to start the production-ready application.
 
 ### `npm test`
 
@@ -68,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contact admin
+- kiran.bjrfx@gmail.com
+- `BJRfx`
