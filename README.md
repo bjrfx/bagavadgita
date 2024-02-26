@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Project Bagavad Gita V.0.1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project, Bagavad Gita was dividen into chapters and verse. Audio clips for each verse has been added.
 
 ## Available Scripts
 

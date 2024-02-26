@@ -3,6 +3,8 @@ import './App.css';
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { collection, getDocs } from "firebase/firestore"; 
+//import Xpose from './components/Xpose';
+
 
   async function fireData() {
     //firebase
@@ -31,6 +33,7 @@ const querySnapshot = await getDocs(collection(db, "chapterOne"));
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+       {/* <Xpose /> */}
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
